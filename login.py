@@ -1,0 +1,2 @@
+import Detectface
+Detectface.DetectFace()
